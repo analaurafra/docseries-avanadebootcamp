@@ -1,0 +1,23 @@
+
+Estrutura Visual do Projeto Back-End:
+
+Visual de como seria o App Ideal via Add-On /Plataforma Streaming:
+
+______________________________________________________________
+
+Link: https://docseries.bubbleapps.io/version-test/
+
+Youtube Version: https://youtu.be/2Pzv_kDDp4g 
+
+
+_____________________________________________________________
+
+Descrição: Um streaming apenas de documentários diversos com possibilidade de acesso em todas as plataformas.
+
+Esqueleto visual antes de concatenar o código. 
+
+Plataforma: Bubble App ( Sem código)
+
+
+
+
