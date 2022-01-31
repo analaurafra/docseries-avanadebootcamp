@@ -20,6 +20,8 @@ Eliézer Zarpelão 📚
 
 Desenvolvimento do projeto ***DocSeries "O mundo através da Sétima Arte"***, aplicação para cadastro, atualização,exclusão e listagem de documentários em formato de seriado. O usuário terá a experiência através de diversos gêneros de documentários organizados por assuntos. Sendo uma plataforma abrangente e que oferece ao usuário a possibilidade de conhecer o mundo em um clique! 🕹️
 
+[Video Resumo](https://youtu.be/qHVusXp3L8Q/)
+
 -------------------------------------------------------------------------------------
 ### Ambiente de Desenvolvimento:  📍
 
