@@ -1,6 +1,10 @@
 ### docseries-avanadebootcamp 🕹️
 Projeto de conclusão do Bootcamp - Decola Tech 2° Edição by Avanade🍊
 
+![home01](https://github.com/analaurafra/docseries-avanadebootcamp/blob/main/DocSeries_Plus/Imagens%20Utilizadas/home01.png)
+
+![home02](https://github.com/analaurafra/docseries-avanadebootcamp/blob/main/DocSeries_Plus/Imagens%20Utilizadas/home02.png)
+
 -------------------------------------------------------------------------------------
 ## Sobre o Projeto: 📍
 
